@@ -1,5 +1,6 @@
 # ICSE_2022_Silent_Bugs
 This Replication Package is intended for replication of results presented in the paper "Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and Tensorflow" submitted to the 44th International Conference on Software Engineering (ICSE 2022). It contains the data and artifacts used in the paper.
+
 The file `Keras Bugs Sheets.xlsx` contains three sheets:
 * **Issues Voting**: Contains the 1168 gathered issues. For each of them, we provide title, URL, GitHub labels as well as whether it was accepted by each of the three reviewers along with comments. The total of issues for each of the number of assigned votes is given at the end of the sheet.
 * **2 votes bugs**: Contains the list of the 38 two-votes bugs that were discussed by reviewers for eventual acceptation. We reported the title, URL and labels of those issues, as well as the comments of each reviewer for the issue. We highlighted a comment from the reviewer that refused it. The decision after discussion is presented in the "Accepted?" column.
