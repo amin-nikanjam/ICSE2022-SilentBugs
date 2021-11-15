@@ -8,7 +8,7 @@ The file `Keras Bugs Sheets.xlsx` contains three sheets:
 
 The directory `bugs_list` contains the list of the 77 issues (.JSON format) we extracted from the GitHub API. Note that ID of issue doesn't go from 1 to 77 because we discarded 6 issues after selection (see paper for more information).
 
-The file `data.csv` contains the list of the 77 issues with the following information: 
-Issue number; ur;gis;Final Scenario;Final Component 1;Final Component 2;Impact;Buggy Version;Fixed Version;Fixing commit
+The file `data.csv` contains the list of the 77 issues with the following information: <br />
+Issue number; ur;gis;Final Scenario;Final Component 1;Final Component 2;Impact;Buggy Version;Fixed Version;Fixing commit <br />
 The file is a ".csv" type file, so it can be extracted easily.
 
